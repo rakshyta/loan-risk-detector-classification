@@ -55,3 +55,5 @@ Our work proposes a Machine Learning model that predicts defaulters which would 
 - tot_coll_amt : Total collection amounts ever owed by the borrower
 - tot_cur_bal : Total current balance of all accounts owned by the borrower
 - total_rev_hi_lim : Total high credit/credit limit
+
+**Dataset Link:** https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data
